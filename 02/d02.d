@@ -4,11 +4,6 @@ import std.array;
 import std.conv;
 import std.string;
 
-void main() {
-    writefln("%d", part_one());
-    writefln("%d", part_two());
-}
-
 struct Password {
     int    min;
     int    max;
@@ -28,6 +23,11 @@ struct Password {
 
         return count == 1;
     }
+}
+
+void main() {
+    writefln("%d", part_one());
+    writefln("%d", part_two());
 }
 
 int part_one() {

@@ -8,3 +8,4 @@ I decided to learn Dlang this year. So here are the solutions in D.
 ## Completion
  - [X] Day 1: Report Repair
  - [X] Day 2: Password Philosophy 
+ - [X] Day 3: Toboggan Trajectory
