@@ -10,4 +10,4 @@ I decided to learn Dlang this year. So here are the solutions in D.
  - [X] Day 2: Password Philosophy 
  - [X] Day 3: Toboggan Trajectory
  - [X] Day 4: Passport Processing
- - [] Day 5: Binary Boarding
+ - [ ] Day 5: Binary Boarding
